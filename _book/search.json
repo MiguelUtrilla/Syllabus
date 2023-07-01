@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "1  Introduction",
+    "section": "",
+    "text": "This is a book created from markdown and executable code.\nSure! Here’s the introduction section of your book on Advanced Analytics: AI and Machine Learning.\n[Introduction]\nWelcome to the book on Advanced Analytics: AI and Machine Learning. In this course, we will explore the fundamental concepts and advanced techniques that form the foundation of artificial intelligence (AI) and machine learning, and how they are applied in various fields and industries.\nWe are currently living in an era of massive data, where information is being generated and collected at an unprecedented rate. Advanced analytics has become an essential tool for uncovering valuable insights and making informed decisions in an increasingly complex world. AI and machine learning have become integral in this context, enabling organizations to discover hidden patterns, predict outcomes, and automate tasks that previously required human intervention.\nThis book has been designed with the goal of providing students with a solid understanding of the concepts and techniques behind advanced analytics, and how they can apply these skills in the real world. Throughout this course, we will explore a wide range of topics, from the fundamentals of machine learning to advanced techniques such as deep learning and natural language processing.\nThe structure of this book is designed to guide students from the basics to more sophisticated methods. We will start with an introduction to the foundations of advanced analytics, including the principles of AI and machine learning, the types of problems that can be addressed, and the key tools and technologies used in this field.\nAs we progress, we will delve into machine learning techniques such as classification, regression, clustering, and anomaly detection. We will explore popular algorithms such as support vector machines, neural networks, and decision trees, and analyze how they are applied in practical scenarios. We will also study how to evaluate and improve the performance of machine learning models and address challenges such as bias and result interpretation.\nAs we venture into the second half of the book, we will focus on more advanced AI techniques such as deep learning and natural language processing. We will explore deep neural networks, attention models, generative adversarial networks, and other cutting-edge approaches that are revolutionizing how AI tackles complex problems.\nThroughout each chapter, you will find practical examples, case studies, and activities that will allow you to apply the knowledge gained. We will also provide additional resources such as recommended readings and links to relevant tools and datasets to encourage your self-directed learning and exploration in this exciting field.\nBy the end of this course, we hope you will feel empowered to tackle analytical problems using advanced AI and machine learning techniques. So, let’s dive in and embark on this enriching journey of advanced analytics!\nSee Knuth (1984) for additional discussion of literate programming.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  },
+  {
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "2  Summary",
+    "section": "",
+    "text": "In summary, this book has no content whatsoever.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  }
+]

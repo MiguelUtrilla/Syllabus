@@ -1,0 +1,19 @@
+# Introduction
+
+Welcome to the book on Advanced Analytics: AI and Machine Learning. In this course, we will explore the fundamental concepts and advanced techniques that form the foundation of artificial intelligence (AI) and machine learning, and how they are applied in various fields and industries.
+
+We are currently living in an era of massive data, where information is being generated and collected at an unprecedented rate. Advanced analytics has become an essential tool for uncovering valuable insights, making informed decisions and hyper-automate processes in an increasingly complex world. AI and machine learning have become integral in this context, enabling organizations to discover hidden patterns, predict outcomes, and automate tasks that previously required human intervention.
+
+This book has been designed with the goal of providing students with a solid understanding of the concepts and techniques behind advanced analytics, and how they can apply these skills in the real world. Throughout this course, we will explore a wide range of topics, from the fundamentals of machine learning to advanced techniques such as deep learning and natural language processing.
+
+As we progress, we will delve into machine learning techniques, we will explore popular algorithms and analyze how they are applied in practical scenarios. We will also study how to evaluate and improve the performance of machine learning models and address challenges such as bias and result interpretation.
+
+Throughout each chapter, you will find practical examples, case studies, and activities that will allow you to apply the knowledge gained. We will also provide additional resources such as recommended readings and links to relevant tools and datasets to encourage your self-directed learning and exploration in this exciting field.
+
+::: callout-important
+## References in this book
+
+The content provided in this book is intended for educational purposes only. The information presented herein is designed to enhance the students' understanding of the subject matter and provide a foundation for further exploration.
+:::
+
+By the end of this course, we hope you will feel empowered to tackle problems using the toolbox explained in this book. So, let's dive in and embark on this enriching journey of advanced analytics!
